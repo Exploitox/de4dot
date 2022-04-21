@@ -1,4 +1,4 @@
-name: GitHub CII
+name: GitHub CI
 on:
   push:
     branches:
